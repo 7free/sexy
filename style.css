@@ -1,0 +1,86 @@
+body {
+font-family: Arial, Tahoma, Verdana, sans-serif;
+font-size: 12px;
+margin: 45px 0 0;
+color: #8f8f8f;
+}
+.clear {
+clear: both;
+}
+img {
+border: 0;
+}
+#wrapper {
+width: 840px;
+margin: 0 auto 0;
+}
+h1 {
+font-size: 30px;
+font-weight: bold;
+color: #ee4242;
+margin: 0;
+padding: 0 0 2px 10px;
+}
+#header {
+background: url('images/header.jpg') no-repeat;
+height: 62px;
+text-align: right;
+padding: 28px 30px 0 0;
+margin: 0 0 1px;
+}
+#content {
+border: 1px solid #d5d5d5;
+padding: 20px 20px 0;
+}
+#girls {
+width: 420px;
+float: left;
+}
+.box {
+width: 120px;
+float: left;
+margin: 0 20px 20px 0;
+}
+.box img {
+padding: 2px;
+border: 2px solid #c5c5c5;
+display: block;
+}
+#steps {
+background: url('images/photo.jpg') 0 25px no-repeat;
+width: 378px;
+float: left;
+}
+#steps h2 {
+font-size: 18px;
+font-weight: bold;
+color: #467dfa;
+margin: 0 0 188px;
+}
+#steps ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+#steps ul li {
+font-size: 18px;
+font-weight: 100;
+color: #323232;
+padding: 0 0 0 35px;
+height: 25px;
+margin: 0 0 15px;
+}
+li#one {
+background: url('images/one.jpg') no-repeat;
+}
+li#two {
+background: url('images/two.jpg') no-repeat;
+}
+li#three {
+background: url('images/three.jpg') no-repeat;
+}
+#footer p {
+text-align: center;
+margin: 0;
+padding: 10px;
+}
